@@ -1,0 +1,40 @@
+Acknowledgements
+
+These projects were built while following the "50 Projects 50 Days" course by
+Brad Traversy and Florin Pop.
+
+The following files come from the course repository
+(https://github.com/bradtraversy/50projects50days) and are used under its
+MIT License, reproduced below:
+
+- 07. Split Landing Page/images/ps.jpg
+- 07. Split Landing Page/images/xbox.jpg
+- 09. Sound Board/sounds/applause.mp3
+- 09. Sound Board/sounds/boo.mp3
+- 09. Sound Board/sounds/gasp.mp3
+- 09. Sound Board/sounds/tada.mp3
+- 09. Sound Board/sounds/victory.mp3
+- 09. Sound Board/sounds/wrong.mp3
+- 42. Live User Filter/script.js
+
+MIT License
+
+Copyright (c) 2022 Brad Traversy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
